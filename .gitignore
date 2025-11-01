@@ -1,0 +1,53 @@
+# Ambiente virtual
+venv/
+.env/
+.venv/
+
+# Bytecode e cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de log
+*.log
+*.out
+
+# Configs do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Testes
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+.nox/
+.cache/
+
+# Mypy / Pylint / Coverage
+.mypy_cache/
+.pylint.d/
+coverage.xml
+
+# Distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos sensíveis
+*.env
+*.secret
+secrets.json
+
+# Jupyter (caso use)
+.ipynb_checkpoints/
+
+# Logs e saídas da aplicação
+logs/
+*.sqlite3
