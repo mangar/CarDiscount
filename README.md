@@ -3,7 +3,7 @@
 # Projetos no Repositório
 
 
-## APIAuto
+## API Auto 🚗
 
 __Motivação__ 
 Retorna o desconto baseado na placa de um carro.
@@ -31,7 +31,7 @@ __Testes__
 
 
 
-## API Premium
+## API Premium 👑
 
 
 
