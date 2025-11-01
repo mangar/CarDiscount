@@ -3,6 +3,8 @@ venv/
 .env/
 .venv/
 
+*.log
+
 # Bytecode e cache
 __pycache__/
 *.py[cod]
